@@ -92,14 +92,29 @@ print(-n)
 >>> print(string*3) 
 stringstringstring
 ```
->리스트 map
-- string은 한 요소씩 쪼개고 싶으면 `변수명[int]`를 이용하여 손 쉽게 나눌 수 있따
-- 하지만 int형 변수의 값은 위의 방식으로 나눌 수 없다. 그래서 사용하는 것이 map이다.
+>List 관련 함수
 
-- map 이란?
+- map
+  - string은 한 요소씩 쪼개고 싶으면 `변수명[int]`를 이용하여 손 쉽게 나눌 수 있따
+  - 하지만 int형 변수의 값은 위의 방식으로 나눌 수 없다. 그래서 사용하는 것이 map이다.
+
   - 리스트의 요소를 지정된 함수로 처리해주는 함수
   - 원본 리스트를 변경하지 않고 새 리스트를 생성한다.
   ```
   list(map(함수, 리스트))
   tuple(map(함수, 튜플))
   ```
+- min
+  - list 안에서 최소값을 반환하는 함수  
+    ```
+    min = min(list);
+    ```
+    
+>2차원 List 만들기
+...
+d=[]
+for i in range(20) : 
+  d.append([])
+  for j in range(20) :  
+    d[i].append(0)
+... 
