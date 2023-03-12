@@ -118,3 +118,24 @@ for i in range(20) :
   for j in range(20) :  
     d[i].append(0)
 ... 
+
+
+### 에러로그
+```
+IndexError: list assignment index out of range
+```
+- 빈 리스트에 인덱스를 지정해서 나온 에러이다. 
+- (19*19) 2차원 자료구조를 만들기 위하여 아래와 같이 코드를 짰는데 해당 에러가 발생하였다.
+```
+list = []
+
+for i in range(19):
+    answerList[i] = list(map(int,input().split()))
+```
+- 해결방법은, 원하는 열 갯수만큼 먼저 초기화를 하는 것이다.
+```
+answerList = [0]*19
+
+for i in range(19):
+    answerList[i] = list(map(int,input().split()))
+```
