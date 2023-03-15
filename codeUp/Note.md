@@ -119,6 +119,22 @@ for i in range(20) :
     d[i].append(0)
 ... 
 
+### 자료구조
+- 스택
+  - 별도의 라이브러리가 필요없다.
+  - 기본 리스트에서 append(), pop() 메서드를 이용하면 스택 자료구조와 동일하게 동작
+
+- 큐
+  - 구현을 위해 deque 라이브러리를 사용한다. 
+  ```
+  from collections import deque # 라이브러리 호출
+  queue = deque()
+  queue.append(1)
+  queue.append(5)
+  queue.popleft() # 1이 삭제
+  ```
+  - .reverse()
+  - list() 메서드를 이용하면 큐를 리스트 자료형으로 변환 가능하다. 
 
 ### 에러로그
 ```
