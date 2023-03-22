@@ -111,15 +111,15 @@ stringstringstring
     ```
     
 >2차원 List 만들기
-...
+```
 d=[]
 for i in range(20) : 
   d.append([])
   for j in range(20) :  
     d[i].append(0)
-... 
+``` 
 
->여러가지 정리
+### 여러가지 정리
 1. sorted() 함수는 O(NlogN)을 보장하며 튜플을 sorted()해도 리스트 자료형으로 반환한다.
 2. 리스트를 정렬할때는 리스트명.sort()로 바로 정렬 가능.
 
