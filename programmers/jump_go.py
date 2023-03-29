@@ -1,22 +1,13 @@
-n = int(input())
-ans = 0
-battery = 0
+def solution(n): # n : 떨어져 있는 거리
+    battery = 1 # 거리 이동하는데 사용한 배터리 양
+    # 처음엔 무조건 한 칸 이동해야만 순간이동이 가능하기 때문에 점프를 한번 했다고 가정하고 시작.
+    while n > 1:
+        if (n%2 == 0) :
+            n /= 2
+        else:
+            battery += 1
+            n -= 1
 
-while True:
-    # 종료 조건
-    if n - ans == 0:
-        break
+    return battery
 
-    ans += 1  # jump
-    battery += 1
-
-    if (n - ans * 2) >= 0:
-        ans = ans * 2  # go , 현재 좌표
-
-
-print(battery)
-
-# https://school.programmers.co.kr/learn/courses/30/lessons/12980
-# ====== 아이디어 =======
-# 1. 반대로 간다.
-#
+print(solution(5000))
