@@ -13,4 +13,18 @@ def fibo(x):
     memo[x] = fibo(x-1) + fibo(x-2)
     return memo[x]
 
-print(fibo(6))
+# print(fibo(6))
+
+
+def fibo_bottom_up(x):
+    memo[1] = 1
+    memo[2] = 1
+
+    # 피보나치 함수를 반복문으로 구현 (바텀업)
+    for i in range(3, x+1):
+        memo[i] = memo[i-1] + memo[i-2]
+
+    return memo[x]
+
+print(fibo_bottom_up(6))
+
