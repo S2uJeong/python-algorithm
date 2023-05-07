@@ -11,7 +11,8 @@ for i in range(int(input())):
 # 차례대로 출력한다.
 for i in range(1,10001):
     while list[i] != 0 :
-        print(i)
+       # print(i)
+        sys.stdout.write(str(i) + '\n')
         list[i] -= 1
 
 # print(*list, sep='\n')
