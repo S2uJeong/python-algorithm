@@ -1,4 +1,5 @@
 # 📁 파이썬 알고리즘 문제풀이 REPO 
+- 파이썬 공식문서 : https://docs.python.org/ko/3/library/index.html
 
 ## 규칙
 - 새로 알게된 부분은 commit 메세지로 간략히 표현
