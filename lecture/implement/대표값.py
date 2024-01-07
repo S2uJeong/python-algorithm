@@ -40,3 +40,23 @@ def first_try(score_list):
 
 score, num = first_try([12,34,17,6,11,15,27,42,39,31, 25, 36, 35, 25, 17])
 print(score, num)
+
+# 주어진 조건을 풀려고 하지 않아도, 넘어가는것으로도 충족할 수 있다는 것을 보여줌..!
+def example(v_list):
+    average_score = round(sum(v_list)/len(v_list))
+    min = 2324349320594
+
+    for idx, score in enumerate(v_list):
+        tmp = abs(score - average_score)
+        if tmp < min:
+            min = tmp
+            o_idx = idx +1
+            o_score = score
+        elif tmp == min:
+            if score > o_score :
+                o_idx = idx +1
+                o_score = score
+    return average_score, o_idx
+
+score, num = example([12,34,17,6,11,15,27,42,39,31, 25, 36, 35, 25, 17])
+print(score, num)
