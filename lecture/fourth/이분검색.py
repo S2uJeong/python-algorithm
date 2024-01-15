@@ -3,12 +3,16 @@ nums = list(map(int,input().split()))
 
 nums.sort()
 lt, rt = 0, N-1
+i = 0
 while lt <= rt:
-    if nums[rt//2 +1] > target:
-        lt = rt//2 +1
-    elif nums[rt//2 +1] < target:
-        rt = rwt//2 -1
+    i += 1
+    mid_idx = (rt+lt)//2
+    print(f'{i}번째 rt = {rt}, lt = {lt}, mid_idx = {mid_idx}')
+    if nums[mid_idx] > target:
+        rt = mid_idx - 1
+    elif nums[mid_idx] < target:
+        lt = mid_idx + 1
     else :
-        rt//2
+        break
+print(mid_idx+1)
 
-print(lt+1)
