@@ -9,4 +9,5 @@ while cnt < M:
     cnt += 1
 
 print(max(arr) - min(arr))
+#
 
