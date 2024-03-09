@@ -11,3 +11,13 @@ def prime_cnt(p_num):
     return cnt
 
 print(prime_cnt(in_num))
+
+
+# 소수인지 판별
+def is_prime(num):
+    if num < 2 :
+        return False
+    for i in range(2,num):
+        if num % i == 0 :
+            return False
+    return True
