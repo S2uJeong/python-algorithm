@@ -9,17 +9,18 @@ def is_prime(num):
             return False
     return True
 
-def dfs(L, n):
-    if L == N:
+def dfs(n):
+    if len(str(n)) == N:
         print(n)
         return
     for i in range(10):
-        nb = int(str(n) + str(i))
+        # nb = int(str(n) + str(i))
+        nb = n*10 + i
         if is_prime(nb):
-            dfs(L + 1, nb)
+            dfs(nb)
         else:
             continue
 
 first_prime = [2,3,5,7]
 for i in first_prime:
-    dfs(1,i)
+    dfs(i)
