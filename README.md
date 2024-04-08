@@ -1,6 +1,7 @@
 # 📁 파이썬 알고리즘 문제풀이 REPO 
 - 파이썬 공식문서 : https://docs.python.org/ko/3/library/index.html
 ## To-do
+- book.314 : [그리디] 만들 수 없는 금액 
 - 백준 인구이동 : https://www.acmicpc.net/problem/16234
 - 연구소 복습 : https://www.acmicpc.net/problem/14502
 - dfs/네트워크 : https://school.programmers.co.kr/learn/courses/30/lessons/43162
