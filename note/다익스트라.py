@@ -8,9 +8,9 @@
     ( 최단 거리 테이블은 10억정도의 최대 값으로 초기화 되어 있음)
 - 매번 제일 작은 값(거리)를 가진 노드를 추출하여 탐색하므로, 한 바퀴만 돌아도 각 노드에 대해 최단 거리를 보장할 수 있다.
 '''
-# code
+## CODE -  일반 다익스트라
 def 다익스트라(start, distance, graph, visited):
-    #시작 노드에 대해서 초기화k
+    #시작 노드에 대해서 초기화
     distance[start] = 0
     visited[start] = True
     for j in graph[start]:
@@ -35,6 +35,26 @@ def get_최단거리(distance, visited):
             index = i
     return index
 
+## CODE - 개선된 다익스트라(heapq사용)
+import heapq
+def imporoved_다익스트라(start, graph, distance):
+    q = []
+    # 시작 노드로 가기 위한 최단 경로를 0으로 초기화 - 첫번째 원소를 기준으로 정렬되므로, 거리값을 1번째 원소로 넣음
+    heapq.heappush(q,(0,start))
+    distance[start] = 0
+    while q :
+        dist, now = heapq.heappop(q)
+        # 현재 노드가 이미 처리된 적이 있는 노드라면 무시
+        if distance[now] < dist :
+            continue
+        # 현재 노드와 연결된 다른 인접한 노드들을 확인
+        for i in graph[now]:
+            cost = dist + i[1]
+            # 현재 노드를 거쳐서, 다른 노드로 이동하는 거리가 더 짧은 경우
+            if cost < distance[i[0]]:
+                distance[i[0]] = cost
+                heapq.heappush(q, (cost, i[0]))
+
 # ====================== 입출력 직접 해보기
 import sys
 input = sys.stdin.readline
@@ -43,7 +63,7 @@ INF = int(1e9) # 10억
 # 노드의 개수, 간선의 개수 입력 받기
 n,m = map(int,input().split())
 # 시작 노드 번호를 입력받기
-start = #int(input())
+start = int(input())
 # 각 노드에 연결되어 있는 노드에 대한 정보를 담는 리스트 만들기
 graph = [[] for i in range(n+1)]
 # 방문한 적이 있는지 체크하는 목적의 리스트
