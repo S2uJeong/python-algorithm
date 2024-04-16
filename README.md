@@ -2,6 +2,8 @@
 - 파이썬 공식문서 : https://docs.python.org/ko/3/library/index.html
 ---
 ## To-do 
+- [구현] 복습
+  - pgm_60059.py (자물쇠와 열쇠)
 - [그리디] 복습
   - book.314_만들 수 없는 금액 , book.315_볼링공 고르기
 - [dfs/bfs] 복습
