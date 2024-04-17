@@ -4,8 +4,10 @@
 ## To-do 
 - [구현] 복습
   - pgm_60059.py (자물쇠와 열쇠)
+  - pgm_60061.py (기둥과 보 설치)
 - [그리디] 복습
-  - book.314_만들 수 없는 금액 , book.315_볼링공 고르기
+  - book.314_만들 수 없는 금액
+  - book.315_볼링공 고르기
 - [dfs/bfs] 복습
   - 백준 인구이동 : https://www.acmicpc.net/problem/16234
   - 연구소 복습 : https://www.acmicpc.net/problem/14502
