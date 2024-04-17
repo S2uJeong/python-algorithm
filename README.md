@@ -2,6 +2,7 @@
 - 파이썬 공식문서 : https://docs.python.org/ko/3/library/index.html
 ---
 ## To-do 
+- book : [구현] p328 ~  / [bfs-dfs] p340 ~
 - [구현] 복습
   - pgm_60059.py (자물쇠와 열쇠)
   - pgm_60061.py (기둥과 보 설치)
