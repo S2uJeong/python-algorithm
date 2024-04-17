@@ -18,7 +18,14 @@
 - 새로 알게된 부분은 commit 메세지로 간략히 표현
 
 ## 제한사항
+### 시간 계산 코드
+```python
+import time
+start_time = time.time()
+end_time = time.time()
 
+print("time :", end_time - start_time)
+```
 ### ⏰ 입력갯수에 따른 알고리즘 시간복잡도 계산방법
 
 입력의 크기를 시간 복잡도에 대입해서 얻은 반복문 수행 횟수에 대해, 1초 당 반복문 수행 횟수가 1억($10^8$)을 넘어가면 시간 제한을 초과할 가능성이 있다.
