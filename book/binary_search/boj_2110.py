@@ -3,6 +3,9 @@
 2. 매 순간 실제로 공유기를 설치하여 C보다 많은 개수로 공유기를 설치할 수 있는지 체크
 3. 체크 시, 더 많은 개수로 넘어가는 순간 설치를 못한다면, 그 바로 직전 값이 정답
 """
+import sys
+input = sys.stdin.readline
+
 N, C = map(int,input().split())
 data = []
 for _ in range(N):
