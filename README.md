@@ -13,8 +13,8 @@
   - 백준 인구이동 : https://www.acmicpc.net/problem/16234
   - 연구소 복습 : https://www.acmicpc.net/problem/14502
   - dfs/네트워크 : https://school.programmers.co.kr/learn/courses/30/lessons/43162
-- [이진탐색] 
-  - book/binary_search/boj_2110.py : 공유기 설치
+- [정렬]
+  - book/sort/pgm_42889.py : 실패율
 - 문제집
   - https://covenant.tistory.com/224
   - https://github.com/tony9402/baekjoon/tree/main
