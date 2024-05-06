@@ -15,3 +15,7 @@
 5. 로프 : https://www.acmicpc.net/problem/2217
    - 그리디, 정렬
    - silver4
+6. 꽃길 : https://www.acmicpc.net/problem/14620
+   - 콤비네이션, 백트래킹
+   - silver2
+   -🔴 복습요망 - 백트래킹으로 풀어볼 것 
