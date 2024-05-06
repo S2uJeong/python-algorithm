@@ -12,3 +12,6 @@
    - bfs + combination + 약간의 아이디어
    - gold4
    - 🔴 복습요망!!!
+5. 로프 : https://www.acmicpc.net/problem/2217
+   - 그리디, 정렬
+   - silver4
