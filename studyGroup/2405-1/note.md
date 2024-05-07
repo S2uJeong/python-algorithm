@@ -18,4 +18,11 @@
 6. 꽃길 : https://www.acmicpc.net/problem/14620
    - 콤비네이션, 백트래킹
    - silver2
-   -🔴 복습요망 - 백트래킹으로 풀어볼 것 
+   - 🔴 복습요망 - 백트래킹으로 풀어볼 것
+7. 스위치와 램프 : https://www.acmicpc.net/problem/16960
+   - 구현
+   - silver4
+   - 🔴 복습요망 - 문제 해석이 좀 난해함 
+8. 점프 : https://www.acmicpc.net/problem/14248
+   - bfs
+   - silver2

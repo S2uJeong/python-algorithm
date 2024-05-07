@@ -10,29 +10,40 @@
 4. 성능개선 : 다 보기 전에 이미 set의 길이가 M이 됐을 떄 .
 오답 : 왜 오답이지? 문제를 잘못 이해했나.
 ===============================
+아이디어 : 모든 램프가 켜져 있다고 가정하고 풀이, 램프를 눌린 횟수로 저장
+이렇게 가정하고 풀면 한 번의 스위치 확인으로도 N-1번 눌렀을 때 모두 켜지는지 확인이 가능하다.
 """
 
 import sys
-from itertools import combinations
 input = sys.stdin.readline
 N, M = map(int, input().split())
-lamps = [list(map(int,input().split())) for _ in range(N)]
-switch_combis = list(combinations(range(N),N-1))
-lights = set()
-isPossible = True
+lamps = [list(map(int,input().split()))[1:] for _ in range(N)]
 
-for switch in switch_combis: #  switch = (1,2,3,5) 와 같이 스위치 숫자가 담김
-    isPossible = True   
-    lights.clear()
-    for s in switch:
-        for j in range(1,len(lamps[s-1])):
-           lights.add(lamps[s-1][j])
-           if len(lights) == M:
-               break
-    if len(lights) < M:
-        isPossible = False
+# 램프별 몇번 눌렸는지 update
+lamp_cnt = [0] * (M + 1)
+for lamp in lamps:
+    for l in lamp:
+        lamp_cnt[l] += 1
+def is_turn_off(lamps, tmp_lamp_cnt):
+    for off_idx in lamps:
+        tmp_lamp_cnt[off_idx] -= 1
+    if 0 in tmp_lamp_cnt[1:]:
+        return False  # 꺼진 램프가 존재 한다.
+    else :
+        return True
 
-if isPossible :
-    print(1)
-else :
-    print(0)
+answer = 0
+for i in range(N):    # 스위치 별로 확인
+    answer = 0
+    tmp_lamp_cnt = lamp_cnt[:]  # 🔴🔴🔴🔴
+    tmp = is_turn_off(lamps[i], tmp_lamp_cnt)
+    #print(f'bool_result : {tmp}')
+    ##print(f'lamp_cnt : {lamp_cnt}')
+    #print(f'lamp_cnt_tmp : {tmp_lamp_cnt}')
+    if tmp == True :
+       answer = 1
+       break
+
+print(answer)
+
+
