@@ -26,3 +26,7 @@
 8. 점프 : https://www.acmicpc.net/problem/14248
    - bfs
    - silver2
+### 24년 5월 둘째주
+1. 대칭 차집합 : https://www.acmicpc.net/problem/1269
+   - 자료구조 (해쉬)
+   - silver4
