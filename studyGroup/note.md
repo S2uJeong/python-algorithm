@@ -30,3 +30,8 @@
 1. 대칭 차집합 : https://www.acmicpc.net/problem/1269
    - 자료구조 (해쉬)
    - silver4
+2. 투에-모스 문자열 : https://www.acmicpc.net/problem/18222
+   - 점화식
+   - silver2
+   - 🔴 복습요망
+3. 
