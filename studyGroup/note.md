@@ -1,3 +1,5 @@
+https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
+
 ### 24년 5월 첫째주
 1. 회전하는 큐 : https://www.acmicpc.net/problem/1021 
    - 자료형(덱)
@@ -34,4 +36,6 @@
    - 점화식
    - silver2
    - 🔴 복습요망
-3. 
+3. A와B 2 : https://www.acmicpc.net/problem/12919
+   - dfs : dfs 함수 안에서 조건에 안 맞으면 처리를 하지 않음으로써 가지 자르기 가능하단걸 알았음.
+   - gold5
