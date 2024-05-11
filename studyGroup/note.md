@@ -39,4 +39,7 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 3. A와B 2 : https://www.acmicpc.net/problem/12919
    - dfs : dfs 함수 안에서 조건에 안 맞으면 처리를 하지 않음으로써 가지 자르기 가능하단걸 알았음.
    - gold5
-4. 독서실 거리두기 : https://www.acmicpc.net/problem/20665
+4. 소수 최소공배수 : https://www.acmicpc.net/problem/21919
+   - 수학, 에라토스테네스의 체
+   - silver 3 
+   - 반례 주의 
