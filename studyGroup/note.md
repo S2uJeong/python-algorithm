@@ -43,3 +43,7 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - 수학, 에라토스테네스의 체
    - silver 3 
    - 반례 주의 
+5. 전공책 : https://www.acmicpc.net/problem/16508
+   - dfs, 유니코드
+   - silver3
+   - 🔴 dfs 구성 방법에 대해 
