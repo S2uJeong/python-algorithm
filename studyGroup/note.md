@@ -46,4 +46,8 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 5. 전공책 : https://www.acmicpc.net/problem/16508
    - dfs, 유니코드
    - silver3
-   - 🔴 dfs 구성 방법에 대해 
+   - 🔴 dfs 구성 방법에 대해
+6. 연결 요소의 개수 : https://www.acmicpc.net/problem/11724
+   - 그래프, dfs, bfs
+   - silver 2
+   - 시간초과 때문에 고생함 ,, dfs로 해결 
