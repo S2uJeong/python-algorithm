@@ -58,3 +58,7 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 8. 이동하기 : https://www.acmicpc.net/problem/11048
    - dp map (기본)
    - silver 2
+### 24년 5월 셋째주
+- 블로그 : https://www.acmicpc.net/problem/21921
+  - 슬라이딩 윈도우
+  - 시간 초과 난거 다시 해보기 
