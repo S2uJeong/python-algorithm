@@ -51,3 +51,14 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - 그래프, dfs, bfs
    - silver 2
    - 시간초과 때문에 고생함 ,, dfs로 해결 
+7. 나머지 합 : https://www.acmicpc.net/problem/10986
+   - 수학  
+   - gold 3
+   - 🔴 공식이 이해 안됨
+8. 이동하기 : https://www.acmicpc.net/problem/11048
+   - dp map (기본)
+   - silver 2
+### 24년 5월 셋째주
+- 블로그 : https://www.acmicpc.net/problem/21921
+  - 슬라이딩 윈도우
+  - 시간 초과 난거 다시 해보기 
