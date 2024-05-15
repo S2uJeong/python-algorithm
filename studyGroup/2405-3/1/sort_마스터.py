@@ -30,7 +30,7 @@ for _ in range(M):
 """
 딕셔너리 이용 
 """
-def fail_timeover() :
+def use_dictionary() :
     # 딕셔너리 key값을 문자로하고, value를 처음 나온 index로 넣는다.
       # key에 이미 있는 값이면 continue
     dicts = dict()

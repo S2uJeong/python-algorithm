@@ -50,7 +50,7 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 6. 연결 요소의 개수 : https://www.acmicpc.net/problem/11724
    - 그래프, dfs, bfs
    - silver 2
-   - 시간초과 때문에 고생함 ,, dfs로 해결 
+   - 시간초과 때문에 고생함 ,, dfs로 해결
 7. 나머지 합 : https://www.acmicpc.net/problem/10986
    - 수학  
    - gold 3
@@ -59,6 +59,11 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - dp map (기본)
    - silver 2
 ### 24년 5월 셋째주
+- 진우의 달 여행 : https://www.acmicpc.net/problem/17485
 - 블로그 : https://www.acmicpc.net/problem/21921
   - 슬라이딩 윈도우
   - 시간 초과 난거 다시 해보기 
+1. Sort 마스터 배지훈의 후계자 : https://www.acmicpc.net/problem/20551
+   - 딕셔너리, 이분탐색(lower_bound)
+   - silver4
+   - 시간초과 관리 까다로움
