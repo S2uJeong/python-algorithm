@@ -67,3 +67,7 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - 딕셔너리, 이분탐색(lower_bound)
    - silver4
    - 시간초과 관리 까다로움
+2. 불! : https://www.acmicpc.net/problem/4179
+   - bfs, 구현
+   - gold 3
+   - 🔴 구현이 까다롭고 아이디어 필요 
