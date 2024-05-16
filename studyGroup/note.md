@@ -63,6 +63,8 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 - 블로그 : https://www.acmicpc.net/problem/21921
   - 슬라이딩 윈도우
   - 시간 초과 난거 다시 해보기 
+- 수익 : https://www.acmicpc.net/problem/4097
+  - silver2, dp
 1. Sort 마스터 배지훈의 후계자 : https://www.acmicpc.net/problem/20551
    - 딕셔너리, 이분탐색(lower_bound)
    - silver4
