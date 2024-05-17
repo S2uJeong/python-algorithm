@@ -77,4 +77,6 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - 문자열, 구현
    - silver1
 4. 점프 게임 : https://www.acmicpc.net/problem/15558
-   
+   - bfs
+   - gold5
+   - 🔴 dfs로는 안 풀렸음. 
