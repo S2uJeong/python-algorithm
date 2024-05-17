@@ -76,3 +76,5 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 3. 단축키 지정 : https://www.acmicpc.net/problem/1283
    - 문자열, 구현
    - silver1
+4. 점프 게임 : https://www.acmicpc.net/problem/15558
+   
