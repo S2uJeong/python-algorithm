@@ -72,4 +72,7 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 2. 불! : https://www.acmicpc.net/problem/4179
    - bfs, 구현
    - gold 3
-   - 🔴 구현이 까다롭고 아이디어 필요 
+   - 🔴 구현이 까다롭고 아이디어 필요
+3. 단축키 지정 : https://www.acmicpc.net/problem/1283
+   - 문자열, 구현
+   - silver1
