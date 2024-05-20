@@ -80,3 +80,7 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - bfs
    - gold5
    - 🔴 dfs로는 안 풀렸음. 
+5. N과 M : https://www.acmicpc.net/problem/15663
+   - permutations
+   - silver2
+   - 🔴 백트래킹으로 다시 풀어보기
