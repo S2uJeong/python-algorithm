@@ -84,3 +84,8 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - permutations
    - silver2
    - 🔴 백트래킹으로 다시 풀어보기
+6. 인싸들의 가위바위보 : https://www.acmicpc.net/problem/16986
+   - 구현
+   - gold3
+   - 🔴 다시 풀어볼 
+7. 
