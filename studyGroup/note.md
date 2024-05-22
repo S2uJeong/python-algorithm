@@ -88,4 +88,8 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - 구현
    - gold3
    - 🔴 다시 풀어볼 
-7. 
+### 24년 5월 넷째주
+1. 이상한 술집 : https://www.acmicpc.net/problem/13702
+   - 이진탐색
+   - silver2
+   - 구현은 어렵지 않지만 소소한 계산 주의점이 어려움
