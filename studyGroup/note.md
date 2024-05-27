@@ -93,3 +93,7 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - 이진탐색
    - silver2
    - 구현은 어렵지 않지만 소소한 계산 주의점이 어려움
+2. 우유 도시 : https://www.acmicpc.net/problem/14722
+   - dp, 그래프
+   - gold 4
+   - 🔴 3차원 dp 사용 
