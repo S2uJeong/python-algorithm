@@ -96,4 +96,7 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 2. 우유 도시 : https://www.acmicpc.net/problem/14722
    - dp, 그래프
    - gold 4
-   - 🔴 3차원 dp 사용 
+   - 🔴 3차원 dp 사용
+3. 풍선 공장 : https://www.acmicpc.net/problem/15810
+   - 이분탐색
+   - 🔴이분탐색 조건에 대한 탐구 필요 https://www.acmicpc.net/blog/view/109
