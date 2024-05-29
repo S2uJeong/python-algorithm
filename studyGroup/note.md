@@ -97,6 +97,10 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - dp, 그래프
    - gold 4
    - 🔴 3차원 dp 사용
-3. 풍선 공장 : https://www.acmicpc.net/problem/15810
+### 24년 5월 다섯째주 
+1. 풍선 공장 : https://www.acmicpc.net/problem/15810
    - 이분탐색
    - 🔴이분탐색 조건에 대한 탐구 필요 https://www.acmicpc.net/blog/view/109
+2. 음식물 피하기 : https://www.acmicpc.net/problem/1743
+   - bfs
+   - silver 1
