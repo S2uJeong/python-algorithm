@@ -108,3 +108,7 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - 완전탐색 
    - silver2
    - 🟡 탐색 아이디어 
+4. 숨바꼭질 : https://www.acmicpc.net/problem/6118
+   - 그래프, bfs
+   - silver1
+   - 🟡 자잘한 생각치 못한 부분 
