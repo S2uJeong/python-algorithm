@@ -104,3 +104,7 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 2. 음식물 피하기 : https://www.acmicpc.net/problem/1743
    - bfs
    - silver 1
+3. 팰린드롬 만들기 : https://www.acmicpc.net/problem/1254
+   - 완전탐색 
+   - silver2
+   - 🟡 탐색 아이디어 
