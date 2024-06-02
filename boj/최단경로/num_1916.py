@@ -17,7 +17,7 @@ distance = [INF] * (city + 1)
 # 다익스트라
 def dijkstra(S):
     # 시작지점 초기화
-    distanc로e[S] = 0
+    distance[S] = 0
     # 최소힙 정의
     q = []
     heapq.heappush(q,(0,S)) # 거리, 노드
