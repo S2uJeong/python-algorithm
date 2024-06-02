@@ -112,3 +112,6 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - 그래프, bfs
    - silver1
    - 🟡 자잘한 생각치 못한 부분 
+5. 카드정렬 : https://www.acmicpc.net/problem/1715
+   - 그리디, heap
+   - gold4
