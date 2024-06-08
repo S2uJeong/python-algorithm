@@ -3,12 +3,8 @@
 수익을 기록한 날짜는 1~250,000
 O(n)으로 해결해본다.
 
-첫번째 시도. 누적합
-1. 수익을 적어 논 기록을 놀며 각 자리에 누적합을 메모리에 따로 저장 (for문 1번)
-2. 이중 for문을 i는 1 ~ n j는 0 ~ i 로 돌며 data[i] - data[j] 해서 max 값을 업데이트
-3. 공식을 구할 수 없음. 실패
-
-두번째 시도. 최대 부분 배열 합 : 카데인 알고리즘
+1. 최대 부분 배열 합 : 카데인 알고리즘 (더 성능 좋음)
+2. 누적합 방법
 """
 import sys
 input = sys.stdin.readline
@@ -21,12 +17,30 @@ def max_subarray_sum(arr):
         result = max(result, max_ending_here)
     return result
 
+# 🔴누적합 사용
+def max_subarray_sum_prefix(arr):
+    n = len(arr)
+    if n == 0:
+        return 0
+
+    prefix_sum = [0] * (n+1)
+    for i in range(n):
+        prefix_sum[i+1] = prefix_sum[i] + arr[i]
+
+    max_sum = -(1e9)
+    min_prefix_sum = 0
+
+    for i in range(1,n+1):
+        max_sum = max(max_sum, prefix_sum[i] - min_prefix_sum)
+        min_prefix_sum = min(min_prefix_sum, prefix_sum[i])
+    return max_sum
+
 while True :
     N = int(input())
     if N == 0 :
         break
     benefits = [int(input()) for _ in range(N)]
-    result = max_subarray_sum(benefits)
+    result = max_subarray_sum_prefix(benefits)
 
     # 출력
     print(result)
