@@ -117,7 +117,14 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - gold4
 
 ### 24년 6월 첫째주
+- 수요일
 1. 큐
 2. 두 개의 탑 : https://www.acmicpc.net/problem/2118
    - 누적합 + 이분탐색 
    - gold5
+- 금요일
+1. 수익 : https://www.acmicpc.net/problem/4097
+   - 최대 부분 배열 합
+   - silver 2
+   - 🟡 알고리즘 방법 이해 및 복기
+2. 성냥개비
