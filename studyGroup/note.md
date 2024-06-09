@@ -127,4 +127,8 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - 최대 부분 배열 합
    - silver 2
    - 🟡 알고리즘 방법 이해 및 복기
-2. 성냥개비
+2. 성냥개비 : https://www.acmicpc.net/problem/3687
+   - dp, 그리디
+   - gold2
+   - 🔴dp 최대값 초기화 시, 답으로 나올 수 있는 값보다 적게 해서 오답 계속 났었음.
+   - 초기화 값 아무생각 없이 1e9로 넣지 말것.
