@@ -134,7 +134,12 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - 초기화 값 아무생각 없이 1e9로 넣지 말것.
 
 ### 24년 6월 둘째주 
+- 화요일 
 1. 뱀 : https://www.acmicpc.net/problem/3190
    - 구현
    - gold4
    - 뱀이 이동하는 것에 따른 조건 처리 구현 방법 
+- 쇠막대기 
+- 독서실 거리두기 
+- 이분매칭에 대해 알아보기  
+- 평범한 배낭 : https://www.acmicpc.net/problem/12865
