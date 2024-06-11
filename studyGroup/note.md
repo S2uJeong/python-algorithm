@@ -132,3 +132,9 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - gold2
    - 🔴dp 최대값 초기화 시, 답으로 나올 수 있는 값보다 적게 해서 오답 계속 났었음.
    - 초기화 값 아무생각 없이 1e9로 넣지 말것.
+
+### 24년 6월 둘째주 
+1. 뱀 : https://www.acmicpc.net/problem/3190
+   - 구현
+   - gold4
+   - 뱀이 이동하는 것에 따른 조건 처리 구현 방법 
