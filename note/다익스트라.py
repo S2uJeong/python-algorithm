@@ -80,7 +80,7 @@ for _ in range(m):
 # 방문하지 않은 노드 중에서, 가장 최단 거리가 짧은 노드의 번호를 반환
 def get_smallest_node():
     min_value = INF
-    indx = 0 # 가장 최단 거리가 짧은 노드의 인덱스
+    index = 0 # 가장 최단 거리가 짧은 노드의 인덱스
     for i in range(1,n+1):
         if distance[i] < min_value and not visited[i]:
             min_value = distance[i]
