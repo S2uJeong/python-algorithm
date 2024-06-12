@@ -139,6 +139,11 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - 구현
    - gold4
    - 뱀이 이동하는 것에 따른 조건 처리 구현 방법 
+- 수요일
+2. 파일 합치기3 : https://www.acmicpc.net/problem/13975
+   - 그리디 
+   - gold4
+   - 우선순위 큐 
 - 쇠막대기 
 - 독서실 거리두기 
 - 이분매칭에 대해 알아보기  
