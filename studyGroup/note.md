@@ -144,7 +144,11 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - 그리디 
    - gold4
    - 우선순위 큐 
+3. 평범한 배낭 : https://www.acmicpc.net/problem/12865
+   - dp
+   - gold 5
+   - 🔴 냅색문제, 다시 풀어보기 
+   
 - 쇠막대기 
 - 독서실 거리두기 
-- 이분매칭에 대해 알아보기  
-- 평범한 배낭 : https://www.acmicpc.net/problem/12865
+- 이분매칭에 대해 알아보기
