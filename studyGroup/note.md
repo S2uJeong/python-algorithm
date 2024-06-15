@@ -148,7 +148,12 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - dp
    - gold 5
    - 🔴 냅색문제, 다시 풀어보기 
-   
+- 금요일
+4. 미로만들기 : https://www.acmicpc.net/problem/2665
+   - 최단경로 
+   - gold 4
+5. 미확인 도착지 : https://www.acmicpc.net/problem/9370
+
 - 쇠막대기 
 - 독서실 거리두기 
 - 이분매칭에 대해 알아보기
