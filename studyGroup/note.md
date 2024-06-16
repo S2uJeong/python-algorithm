@@ -156,6 +156,11 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - 최단경로 
    - gold 2
    - 🔴중간지점 조건이 들어가 조건마다 최단경로 리스트를 각각 만들어 더하는 방식 이용
-- 쇠막대기 
-- 독서실 거리두기 
+- 일요일
+6. 노드사이의 거리 : https://www.acmicpc.net/problem/1240
+   - 그래프/bfs
+   - gold 5
+- 별찍기 : https://www.acmicpc.net/problem/2448
+- 쇠막대기 : https://www.acmicpc.net/problem/10799
+- 독서실 거리두기 : https://www.acmicpc.net/problem/20665
 - 이분매칭에 대해 알아보기
