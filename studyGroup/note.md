@@ -160,7 +160,11 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 6. 노드사이의 거리 : https://www.acmicpc.net/problem/1240
    - 그래프/bfs
    - gold 5
-- 별찍기 : https://www.acmicpc.net/problem/2448
+### 24년 6월 셋째주
+- 수요일
+1. 생태학 : https://www.acmicpc.net/problem/4358
+   - dict, 서식 문자열
+   - silver2
+
 - 쇠막대기 : https://www.acmicpc.net/problem/10799
 - 독서실 거리두기 : https://www.acmicpc.net/problem/20665
-- 이분매칭에 대해 알아보기
