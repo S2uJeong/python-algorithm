@@ -171,6 +171,8 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 2. 문어 : https://www.acmicpc.net/problem/21313
    - 그리디
    - bronze 2
-
+3. 드래곤 앤 던전 : https://www.acmicpc.net/problem/16434
+   - 이분탐색, 구현
+   - gold 4
 - 쇠막대기 : https://www.acmicpc.net/problem/10799
 - 독서실 거리두기 : https://www.acmicpc.net/problem/20665
