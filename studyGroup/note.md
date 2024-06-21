@@ -161,10 +161,16 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - 그래프/bfs
    - gold 5
 ### 24년 6월 셋째주
+- 화요일 
+
 - 수요일
 1. 생태학 : https://www.acmicpc.net/problem/4358
    - dict, 서식 문자열
    - silver2
+- 금요일
+2. 문어 : https://www.acmicpc.net/problem/21313
+   - 그리디
+   - bronze 2
 
 - 쇠막대기 : https://www.acmicpc.net/problem/10799
 - 독서실 거리두기 : https://www.acmicpc.net/problem/20665
