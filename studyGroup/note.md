@@ -161,9 +161,7 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - 그래프/bfs
    - gold 5
 ### 24년 6월 셋째주
-- 화요일 
-
-- 수요일
+- 스터디날 
 1. 생태학 : https://www.acmicpc.net/problem/4358
    - dict, 서식 문자열
    - silver2
@@ -174,5 +172,13 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 3. 드래곤 앤 던전 : https://www.acmicpc.net/problem/16434
    - 이분탐색, 구현
    - gold 4
+- 일요일 
+4. 가장 긴 짝수 연속한 부분 수열 (small) - num_22857 : https://www.acmicpc.net/problem/22857
+   - 투포인터
+   - silver2
+   - 🔴 연속 수열 문제 복습 
+5. 가장 긴 증가하는 부분 수열 2 : https://www.acmicpc.net/problem/12015
+
+
 - 쇠막대기 : https://www.acmicpc.net/problem/10799
 - 독서실 거리두기 : https://www.acmicpc.net/problem/20665
