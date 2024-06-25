@@ -179,6 +179,10 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - 🔴 연속 수열 문제 복습 
 5. 가장 긴 증가하는 부분 수열 2 : https://www.acmicpc.net/problem/12015
 
-
+### 24년 6월 넷째주
+1. 줄 세우기 : https://www.acmicpc.net/problem/2252
+   - 위상 정렬, graph
+   - gold 3
+   - 🟡 새로운 개념, 앞 뒤 숫자로만 조건 들어 올 때 정렬하는 방법 
 - 쇠막대기 : https://www.acmicpc.net/problem/10799
 - 독서실 거리두기 : https://www.acmicpc.net/problem/20665
