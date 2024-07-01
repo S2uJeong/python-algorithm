@@ -180,9 +180,18 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 5. 가장 긴 증가하는 부분 수열 2 : https://www.acmicpc.net/problem/12015
 
 ### 24년 6월 넷째주
+0. 소프티어 7문제 : /Users/sujeong/PycharmProjects/python-algorithm/softeer
 1. 줄 세우기 : https://www.acmicpc.net/problem/2252
    - 위상 정렬, graph
    - gold 3
    - 🟡 새로운 개념, 앞 뒤 숫자로만 조건 들어 올 때 정렬하는 방법 
+2. 격자상의 경로 : https://www.acmicpc.net/problem/10164
+3. 0 만들기 : https://www.acmicpc.net/problem/7490
+   - 재귀
+   - gold 5
+   - 🔴dfs 구성법 이해 부족 
+
+   
+
 - 쇠막대기 : https://www.acmicpc.net/problem/10799
 - 독서실 거리두기 : https://www.acmicpc.net/problem/20665
