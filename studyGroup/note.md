@@ -191,6 +191,11 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - gold 5
    - 🔴dfs 구성법 이해 부족 
 
+### 24년 7월 첫쨰주
+1. 합 구하기 : https://www.acmicpc.net/problem/11441
+   - dp
+   - silver3
+   - 🔴예전에 누적합 비슷한 문제 풀 때, (돈 관련) 풀이 식 다른데 같이 비교해서 확인할 것
    
 
 - 쇠막대기 : https://www.acmicpc.net/problem/10799
