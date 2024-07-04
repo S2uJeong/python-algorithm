@@ -195,8 +195,18 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 1. 합 구하기 : https://www.acmicpc.net/problem/11441
    - dp
    - silver3
-   - 🔴예전에 누적합 비슷한 문제 풀 때, (돈 관련) 풀이 식 다른데 같이 비교해서 확인할 것
-   
+2. 사과나무 : https://www.acmicpc.net/problem/20002
+3. 최종순위 : https://www.acmicpc.net/problem/3665
+   - 위상정렬
+   - gold1
+   - 🔴 ^^ :????????????????
 
+
+
+### 보류중인 문제 
+- 격자상의 경로 : https://www.acmicpc.net/problem/10164 2406-4
+- 사과나무 : https://www.acmicpc.net/problem/20002  2407-1
 - 쇠막대기 : https://www.acmicpc.net/problem/10799
 - 독서실 거리두기 : https://www.acmicpc.net/problem/20665
+- K번째 수 1300 
+- 가장 긴 증가하는 부분 수열 2 : https://www.acmicpc.net/problem/12015
