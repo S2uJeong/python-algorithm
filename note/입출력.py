@@ -28,3 +28,17 @@ num = 14
 print("답은 " + str(num) + " 이다.")
 print("이것도 답이", str(num), "된다.") # , 가 공백으로 들어가게 함에 유의
 print(f"정답은 {num} 입니다.")
+
+
+# sep, 기준에 따라 입력받고 출력한다.
+a, b = input().split(':')
+print(a, b, sep=':')
+
+
+# 연산자를 통해 str 변수를 몇번 반복해서 출력가능
+print("string"*3)
+# 결과 : stringstringstring
+
+# 유니코드
+int_value = ord(input())
+char_value = chr(input())
