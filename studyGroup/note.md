@@ -200,6 +200,8 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - 위상정렬
    - gold1
    - 🔴 ^^ :????????????????
+- 금요일
+4. 에라토스테네스의 체
 
 
 
