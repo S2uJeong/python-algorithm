@@ -203,7 +203,13 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 - 금요일
 4. 에라토스테네스의 체
 
-
+### 24년 7월 둘째주
+1. 피보나치 함수 : https://www.acmicpc.net/problem/1003
+   - dp
+   - silver 3
+2. 기차가 어둠을 헤치고 은하수를 : https://www.acmicpc.net/problem/15787
+   - deque, 비트마스크(?)
+   - silver 2 
 
 ### 보류중인 문제 
 - 격자상의 경로 : https://www.acmicpc.net/problem/10164 2406-4
