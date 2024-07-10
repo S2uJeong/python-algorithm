@@ -213,6 +213,9 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 3. 다리 놓기 : https://www.acmicpc.net/problem/1010
    - silver 5
    - 수학(조합), DP
+4. 역사 : https://www.acmicpc.net/problem/1613
+
+
 
 ### 보류중인 문제 
 - 격자상의 경로 : https://www.acmicpc.net/problem/10164 2406-4
