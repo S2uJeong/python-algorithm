@@ -7,13 +7,43 @@ result에 append할 때, memo에도 그 순서를 같이 표시해서 자체 fin
 
 맨 처음에 어떤 노드를 deque에 넣어 놓고 시작할지가 고민됨.
 동시에 역사가 일어난 경우는 없을까?
+
+2트
+- 선후관계로 단방향 그래프의 형태를 띈다, N 은 400 이하 자연수로 크기가 작음 => 플로이드 워셜 활용
 """
-from collections import deque
+import sys
+input = sys.stdin.readline
+
 N,K = map(int,input().split())
+
+# 플로이드 워셜
+INF = int(1e9)
+graph = [[INF] * (N+1) for _ in range(N+1)] # 노드간 이어진 경로가 없으면 INF (단방향)
+
+for _ in range(K):
+    first, second = map(int,input().split())
+    graph[first][second] = 1 # 경로가 있음 1로 표시
+
+for k in range(1,N+1):
+    for r in range(1,N+1):
+        for c in range(1, N + 1):
+            graph[r][c] = min(graph[r][c], graph[r][k]+graph[k][c])
+
+S = int(input().rstrip())
+for _ in range(S):
+    first, second = map(int, input().split())
+    if graph[first][second] != INF and graph[second][first] == INF:
+        print(-1)
+    elif graph[first][second] == INF and graph[second][first] != INF:
+        print(1)
+    else:
+        print(0)
 
 
 # 위상 정렬 사용 방법
 def fail_at_1percent(N,K):
+    from collections import deque
+
     memo = [0] * (N+1) # 탐색용 : input되는 사건 번호가 1부터 시작되므로 / 이후 val이 0이면 모른다로 출력할 것.
     depth = [0] * (N+1) # 위상정렬용
     dQ = deque()
