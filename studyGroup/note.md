@@ -220,6 +220,9 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - gold 4
    - dfs, 구현
    - 🔴조건 구현 까다로움
+6. 센서 : https://www.acmicpc.net/problem/2212
+   - gold 5
+   - 🔴 그리디 
 
 ### 보류중인 문제 
 - 격자상의 경로 : https://www.acmicpc.net/problem/10164 2406-4
