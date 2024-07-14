@@ -215,9 +215,11 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - 수학(조합), DP
 4. 역사 : https://www.acmicpc.net/problem/1613
    - gold 3
-   - 플로이드 워셜, 최단경로 
-
-
+   - 🟡플로이드 워셜, 최단경로 
+5. 무기 공학 : https://www.acmicpc.net/problem/18430
+   - gold 4
+   - dfs, 구현
+   - 🔴조건 구현 까다로움
 
 ### 보류중인 문제 
 - 격자상의 경로 : https://www.acmicpc.net/problem/10164 2406-4
