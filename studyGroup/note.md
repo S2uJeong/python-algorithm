@@ -228,6 +228,9 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 1. 끝나지 않는 파티 : https://www.acmicpc.net/problem/11265
    - gold 5
    - 플로이드 워셜, 최단경로 
+2. 이동하기 (복습) : https://www.acmicpc.net/problem/11048
+   - silver2
+   - dp
 
 ### 보류중인 문제 
 - 격자상의 경로 : https://www.acmicpc.net/problem/10164 2406-4
