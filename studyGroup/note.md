@@ -224,6 +224,11 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - gold 5
    - 🔴 그리디 
 
+### 24년 7월 셋째주
+1. 끝나지 않는 파티 : https://www.acmicpc.net/problem/11265
+   - gold 5
+   - 플로이드 워셜, 최단경로 
+
 ### 보류중인 문제 
 - 격자상의 경로 : https://www.acmicpc.net/problem/10164 2406-4
 - 사과나무 : https://www.acmicpc.net/problem/20002  2407-1
