@@ -232,6 +232,8 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
    - silver2
    - dp
 3. 같이 눈사람 만들래 : https://www.acmicpc.net/problem/20366
+4. 수들의 합 2 : https://www.acmicpc.net/problem/2003
+   - silver 4
 
 ### 보류중인 문제 
 - 격자상의 경로 : https://www.acmicpc.net/problem/10164 2406-4
