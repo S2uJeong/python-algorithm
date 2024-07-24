@@ -248,7 +248,10 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 1. 운동 : https://www.acmicpc.net/problem/1956
    - gold4
    - 최단경로 : 플로이드-와샬
-
+2. 순회강연 : https://www.acmicpc.net/problem/2109
+   - gold3
+   - 그리디, 우선순위 큐 
+   
 ### 보류중인 문제 
 - 격자상의 경로 : https://www.acmicpc.net/problem/10164 2406-4
 - 사과나무 : https://www.acmicpc.net/problem/20002  2407-1
