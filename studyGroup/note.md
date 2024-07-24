@@ -238,6 +238,16 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 5. 트리의 부모 찾기 : https://www.acmicpc.net/problem/11725
    - silver2
    - bfs
+6. 구간 합 구하기5 : https://www.acmicpc.net/problem/11660
+   - silver1
+7. RGB거리 2 : https://www.acmicpc.net/problem/17404
+   - gold4
+   - 🔴 dp
+
+### 24년 7월 넷째주
+1. 운동 : https://www.acmicpc.net/problem/1956
+   - gold4
+   - 최단경로 : 플로이드-와샬
 
 ### 보류중인 문제 
 - 격자상의 경로 : https://www.acmicpc.net/problem/10164 2406-4
