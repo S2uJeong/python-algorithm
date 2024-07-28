@@ -1,4 +1,4 @@
-https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
+https://github.com/tony9402/bae kjoon/blob/main/picked_legacy.md
 
 ### 24년 5월 첫째주
 1. 회전하는 큐 : https://www.acmicpc.net/problem/1021 
@@ -251,7 +251,10 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 2. 순회강연 : https://www.acmicpc.net/problem/2109
    - gold3
    - 그리디, 우선순위 큐 
-   
+3. 두 용액 : https://www.acmicpc.net/problem/2470
+   - gold5
+   - 투 포인터 
+
 ### 보류중인 문제 
 - 격자상의 경로 : https://www.acmicpc.net/problem/10164 2406-4
 - 사과나무 : https://www.acmicpc.net/problem/20002  2407-1
