@@ -1,4 +1,4 @@
-https://github.com/tony9402/bae kjoon/blob/main/picked_legacy.md
+https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 
 ### 24년 5월 첫째주
 1. 회전하는 큐 : https://www.acmicpc.net/problem/1021 
@@ -254,6 +254,9 @@ https://github.com/tony9402/bae kjoon/blob/main/picked_legacy.md
 3. 두 용액 : https://www.acmicpc.net/problem/2470
    - gold5
    - 투 포인터 
+4. 폴리오미노 : https://www.acmicpc.net/problem/1343
+   - silver5
+   - 구현
 
 ### 보류중인 문제 
 - 격자상의 경로 : https://www.acmicpc.net/problem/10164 2406-4
