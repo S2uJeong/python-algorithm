@@ -257,6 +257,10 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 4. 폴리오미노 : https://www.acmicpc.net/problem/1343
    - silver5
    - 구현
+5. 뱀과 사다리 게임 : https://www.acmicpc.net/problem/16928
+   - gold5
+   - bfs
+
 
 ### 보류중인 문제 
 - 격자상의 경로 : https://www.acmicpc.net/problem/10164 2406-4
