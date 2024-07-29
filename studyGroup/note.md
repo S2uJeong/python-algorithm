@@ -260,7 +260,10 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 5. 뱀과 사다리 게임 : https://www.acmicpc.net/problem/16928
    - gold5
    - bfs
-
+6. ABCDE
+   - gold5
+   - dfs
+   - 🔴 방문 초기화 주의
 
 ### 보류중인 문제 
 - 격자상의 경로 : https://www.acmicpc.net/problem/10164 2406-4
