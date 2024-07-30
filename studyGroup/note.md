@@ -260,10 +260,15 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 5. 뱀과 사다리 게임 : https://www.acmicpc.net/problem/16928
    - gold5
    - bfs
-6. ABCDE
+6. ABCDE : https://www.acmicpc.net/problem/13023
    - gold5
    - dfs
    - 🔴 방문 초기화 주의
+
+### 24년 7월 다섯 ~ 8월 첫째주
+1. 병사 배치하기 : https://www.acmicpc.net/problem/18353
+   - silver2
+   - 🔴 dp 
 
 ### 보류중인 문제 
 - 격자상의 경로 : https://www.acmicpc.net/problem/10164 2406-4
