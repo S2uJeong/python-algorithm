@@ -269,6 +269,9 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 1. 병사 배치하기 : https://www.acmicpc.net/problem/18353
    - silver2
    - 🔴 dp 
+2. N과 M(1) : https://www.acmicpc.net/problem/15649
+   - silver3
+   - 백트래킹 
 
 ### 보류중인 문제 
 - 격자상의 경로 : https://www.acmicpc.net/problem/10164 2406-4
