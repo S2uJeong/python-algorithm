@@ -1,5 +1,3 @@
-https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
-
 ### 24년 5월 첫째주
 1. 회전하는 큐 : https://www.acmicpc.net/problem/1021 
    - 자료형(덱)
@@ -272,6 +270,10 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 2. N과 M(1) : https://www.acmicpc.net/problem/15649
    - silver3
    - 백트래킹 
+3. 부분수열의 합 : https://www.acmicpc.net/problem/14225
+   - silver1
+   - dfs
+   - 조합문제
 
 ### 보류중인 문제 
 - 격자상의 경로 : https://www.acmicpc.net/problem/10164 2406-4
@@ -282,3 +284,6 @@ https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
 - 가장 긴 증가하는 부분 수열 2 : https://www.acmicpc.net/problem/12015
 - 행복 유치원 : 그리디, https://www.acmicpc.net/problem/13164
 - 구간 합 구하기5 : https://www.acmicpc.net/problem/11660
+
+### 랜덤 문제 사이트
+https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
