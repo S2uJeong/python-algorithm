@@ -6,7 +6,7 @@ def solution(numbers, target):
     DFS(0,0,0, target, numbers, total, n)
     return res
 
-# 기본 방법 : 모든 경우의 수를 뽑아서 더해보고, 타겟과 맞으면 전역변수 cnt 값을 올려준다.
+# 수학 방법 : 모든 경우의 수를 뽑아서 더해보고, 타겟과 맞으면 전역변수 cnt 값을 올려준다.
 # 가지 치기 : 남은 숫자를 다 안 썼다고 했을 때에도, 총 더한 값이 target 이상이면 더 탐색하지 않는다.
 def DFS(L, sum, tsum, target, numbers, total, n):
     global res

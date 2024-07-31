@@ -19,7 +19,7 @@ if sum(bowls) >= K: # 🔴 막걸리 합이 K(명)을 못 넘으면 답은 0
         for i in range(len(bowls)):
             tmp = bowls[i]
             cnt += (tmp // mid)
-        # 결과에 따라 이분탐색 조정
+        # 결과에 따라 이분탐색_투포인터 조정
         if cnt >= K:
             result = max(result, mid)
             start = mid+1

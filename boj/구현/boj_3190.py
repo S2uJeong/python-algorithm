@@ -5,7 +5,7 @@ input = sys.stdin.readline
 # ========== 입력 ===========
 # maps 초기화 : 입력 시, 위치 idx가 1부터 들어와서 크기를 N+1로 설정
 N = int(input()) # 보드 크기
-maps = [[0] * (N+1) for _ in range(N+1)] # 0 : 기본, 1: 사과, 2: 뱀
+maps = [[0] * (N+1) for _ in range(N+1)] # 0 : 수학, 1: 사과, 2: 뱀
 A = int(input()) # 사과 개수
 for _ in range(A):
     r,c = map(int,input().split())

@@ -2,6 +2,9 @@
 - 파이썬 공식문서 : https://docs.python.org/ko/3/library/index.html
 ---
 ## To-do
+### 복습 주제
+- 연속 수열 (증가, 감소)
+- 
 ### 복습
 - [구현] 
   - pgm_60059.py (자물쇠와 열쇠)

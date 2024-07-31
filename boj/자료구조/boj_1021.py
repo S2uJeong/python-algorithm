@@ -1,5 +1,4 @@
 """
-https://www.acmicpc.net/problem/1021
 1. 뽑는건 arr[0]에 있을 때 가능
 2. 뽑으려는 수가 나올 때 까지 popleft(), append() 반복하고 연산할 때 마다 cnt를 늘려준다.
 
