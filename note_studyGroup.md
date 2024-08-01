@@ -274,7 +274,9 @@
    - silver1
    - dfs
    - 조합문제
-
+4. 나이트의 이동 : https://www.acmicpc.net/problem/7562
+   - silver1
+   - bfs 정석 같은 문제
 ### 보류중인 문제 
 - 격자상의 경로 : https://www.acmicpc.net/problem/10164 2406-4
 - 사과나무 : https://www.acmicpc.net/problem/20002  2407-1
