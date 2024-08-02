@@ -277,6 +277,10 @@
 4. 나이트의 이동 : https://www.acmicpc.net/problem/7562
    - silver1
    - bfs 정석 같은 문제
+5. 해킹 : https://www.acmicpc.net/problem/10282
+   - gold4
+   - 다익스트라
+   - 처음에 bfs로 시도하다가 시간이라는 가중치가 있단 걸 깨닫고 다익스트라로 전환. 일반 bfs는 처음 방문하는 노드만을 알 수 있기 때문에 가중치 고려가 안됨
 ### 보류중인 문제 
 - 격자상의 경로 : https://www.acmicpc.net/problem/10164 2406-4
 - 사과나무 : https://www.acmicpc.net/problem/20002  2407-1
