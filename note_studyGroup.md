@@ -281,6 +281,7 @@
    - gold4
    - 다익스트라
    - 처음에 bfs로 시도하다가 시간이라는 가중치가 있단 걸 깨닫고 다익스트라로 전환. 일반 bfs는 처음 방문하는 노드만을 알 수 있기 때문에 가중치 고려가 안됨
+
 ### 보류중인 문제 
 - 격자상의 경로 : https://www.acmicpc.net/problem/10164 2406-4
 - 사과나무 : https://www.acmicpc.net/problem/20002  2407-1
@@ -290,6 +291,7 @@
 - 가장 긴 증가하는 부분 수열 2 : https://www.acmicpc.net/problem/12015
 - 행복 유치원 : 그리디, https://www.acmicpc.net/problem/13164
 - 구간 합 구하기5 : https://www.acmicpc.net/problem/11660
+- 종이조각 : [비트마스킹] https://www.acmicpc.net/problem/14391 
 
 ### 랜덤 문제 사이트
 https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
