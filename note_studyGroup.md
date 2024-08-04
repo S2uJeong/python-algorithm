@@ -292,6 +292,7 @@
 - 행복 유치원 : 그리디, https://www.acmicpc.net/problem/13164
 - 구간 합 구하기5 : https://www.acmicpc.net/problem/11660
 - 종이조각 : [비트마스킹] https://www.acmicpc.net/problem/14391 
+- 꽃길 : [dfs] https://www.acmicpc.net/problem/14620
 
 ### 랜덤 문제 사이트
 https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
