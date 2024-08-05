@@ -282,14 +282,18 @@
    - 다익스트라
    - 처음에 bfs로 시도하다가 시간이라는 가중치가 있단 걸 깨닫고 다익스트라로 전환. 일반 bfs는 처음 방문하는 노드만을 알 수 있기 때문에 가중치 고려가 안됨
 6. 피로도 : https://www.acmicpc.net/problem/22864
-   - bronze 2
+   - bronze2
+7. K번째 수 : https://www.acmicpc.net/problem/1300
+   - gold1
+   - 이분탐색
+   - 🔴문제 접근법이 어려움 
+
 
 ### 보류중인 문제 
 - 격자상의 경로 : https://www.acmicpc.net/problem/10164 2406-4
 - 사과나무 : https://www.acmicpc.net/problem/20002  2407-1
 - 쇠막대기 : https://www.acmicpc.net/problem/10799
 - 독서실 거리두기 : https://www.acmicpc.net/problem/20665
-- K번째 수 1300 
 - 가장 긴 증가하는 부분 수열 2 : https://www.acmicpc.net/problem/12015
 - 행복 유치원 : 그리디, https://www.acmicpc.net/problem/13164
 - 구간 합 구하기5 : https://www.acmicpc.net/problem/11660
