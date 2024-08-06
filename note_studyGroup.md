@@ -288,6 +288,11 @@
    - 이분탐색
    - 🔴문제 접근법이 어려움 
 
+### 24년 8월 둘째주
+1. 최대 정사각형 : https://www.acmicpc.net/problem/4095
+   - gold4
+   - dp
+   - 🔴
 
 ### 보류중인 문제 
 - 격자상의 경로 : https://www.acmicpc.net/problem/10164 2406-4
