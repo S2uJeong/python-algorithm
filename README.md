@@ -1,14 +1,12 @@
 # 📁 파이썬 알고리즘 문제풀이 REPO 
 - 파이썬 공식문서 : https://docs.python.org/ko/3/library/index.html
+- 큰돌 문제집 : https://www.acmicpc.net/workbook/by/redblacktree
 ---
 ## To-do
 ### 복습 주제
 - 연속 수열 (증가, 감소)
 - 
 ### 복습
-- [구현] 
-  - pgm_60059.py (자물쇠와 열쇠)
-  - pgm_60061.py (기둥과 보 설치)
 - [그리디] 
   - book.314_만들 수 없는 금액
   - book.315_볼링공 고르기
