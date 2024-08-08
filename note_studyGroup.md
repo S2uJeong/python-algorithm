@@ -294,6 +294,11 @@
    - dp
    - 🔴
 
+
+- 패션왕 신해빈 
+   - silver 3
+   - 수학, 공식 일반화 시키는 것, 조합 
+
 ### 보류중인 문제 
 - 격자상의 경로 : https://www.acmicpc.net/problem/10164 2406-4
 - 사과나무 : https://www.acmicpc.net/problem/20002  2407-1
