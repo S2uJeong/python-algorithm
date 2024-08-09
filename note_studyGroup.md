@@ -293,8 +293,11 @@
    - gold4
    - dp
    - 🔴
-
-
+2. 양 : https://www.acmicpc.net/problem/3184
+   - silver1
+   - 구현 + bfs
+3. 차이를 최대로 : https://www.acmicpc.net/problem/10819
+   
 - 패션왕 신해빈 : https://www.acmicpc.net/problem/9375
    - silver 3
    - 수학, 공식 일반화 시키는 것, 조합 
@@ -312,6 +315,7 @@
 - 구간 합 구하기5 : https://www.acmicpc.net/problem/11660
 - 종이조각 : [비트마스킹] https://www.acmicpc.net/problem/14391 
 - 꽃길 : [dfs] https://www.acmicpc.net/problem/14620
+- 보석도둑 : [dp, 배낭문제] https://www.acmicpc.net/problem/1202
 
 ### 랜덤 문제 사이트
 https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
