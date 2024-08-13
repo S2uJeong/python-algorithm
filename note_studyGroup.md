@@ -297,7 +297,7 @@
    - silver1
    - 구현 + bfs
 3. 차이를 최대로 : https://www.acmicpc.net/problem/10819
-   
+   - silver2
 - 패션왕 신해빈 : https://www.acmicpc.net/problem/9375
    - silver 3
    - 수학, 공식 일반화 시키는 것, 조합 
