@@ -1,6 +1,6 @@
 # 📁 파이썬 알고리즘 문제풀이 REPO 
 - 파이썬 공식문서 : https://docs.python.org/ko/3/library/index.html
-- 큰돌 문제집 : https://www.acmicpc.net/workbook/by/redblacktree
+
 ---
 ## To-do
 ### 복습 주제
