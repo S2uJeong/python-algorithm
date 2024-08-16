@@ -287,7 +287,7 @@
    - gold1
    - 이분탐색
    - 🔴문제 접근법이 어려움 
-
+[
 ### 24년 8월 둘째주
 1. 최대 정사각형 : https://www.acmicpc.net/problem/4095
    - gold4
@@ -305,8 +305,18 @@
   - silver 2
   - bfs
 
+### 24년 8월 셋째주
+1. 점프게임(복습) : https://www.acmicpc.net/problem/15558 
+   - gold 5
+   - bfs, 조건 구현 까다로움
+2. 동전 2 : https://www.acmicpc.net/problem/2294
+3. 트리의 순회 : https://www.acmicpc.net/problem/2263
+4. DSLR : https://www.acmicpc.net/problem/9019
+5. 스도쿠 : https://www.acmicpc.net/problem/2239
+6. 원판 돌리기 : https://www.acmicpc.net/problem/17822
+
 ### 보류중인 문제 
-- 격자상의 경로 : https://www.acmicpc.net/problem/10164 2406-4
+- 격자상의 경로 : www.acmicpc.net/problem/10164 2406-4
 - 사과나무 : https://www.acmicpc.net/problem/20002  2407-1
 - 쇠막대기 : https://www.acmicpc.net/problem/10799
 - 독서실 거리두기 : https://www.acmicpc.net/problem/20665
