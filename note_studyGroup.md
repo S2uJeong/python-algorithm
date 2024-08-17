@@ -310,6 +310,8 @@
    - gold 5
    - bfs, 조건 구현 까다로움
 2. 동전 2 : https://www.acmicpc.net/problem/2294
+   - gold 5
+   - 🟡 dp, dp에 대해 이해하기 좋은 문제
 3. 트리의 순회 : https://www.acmicpc.net/problem/2263
 4. DSLR : https://www.acmicpc.net/problem/9019
 5. 스도쿠 : https://www.acmicpc.net/problem/2239
@@ -326,6 +328,7 @@
 - 종이조각 : [비트마스킹] https://www.acmicpc.net/problem/14391 
 - 꽃길 : [dfs] https://www.acmicpc.net/problem/14620
 - 보석도둑 : [dp, 배낭문제] https://www.acmicpc.net/problem/1202
+- 동전 2 : [dp] https://www.acmicpc.net/problem/2294  🟡 dp에 대해 이해하기 좋은 문제
 
 ### 랜덤 문제 사이트
 https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
