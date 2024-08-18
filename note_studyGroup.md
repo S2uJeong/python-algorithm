@@ -287,7 +287,7 @@
    - gold1
    - 이분탐색
    - 🔴문제 접근법이 어려움 
-[
+
 ### 24년 8월 둘째주
 1. 최대 정사각형 : https://www.acmicpc.net/problem/4095
    - gold4
@@ -315,6 +315,9 @@
 3. 트리의 순회 : https://www.acmicpc.net/problem/2263
 4. DSLR : https://www.acmicpc.net/problem/9019
 5. 스도쿠 : https://www.acmicpc.net/problem/2239
+   - gold4
+   - dfs
+   - 🔴시간초과, pypy로 통과. 최적화 지점 찾아보기 
 6. 원판 돌리기 : https://www.acmicpc.net/problem/17822
 
 ### 보류중인 문제 
