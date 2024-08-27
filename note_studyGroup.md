@@ -321,7 +321,9 @@
 1. 다음 소수 : https://www.acmicpc.net/problem/4134
    - silver4
    - 수학
-
+2. 치킨 배달 : https://www.acmicpc.net/problem/15686
+   - gold5
+   - 🟡 dfs
 
 
 ### 보류중인 문제 
