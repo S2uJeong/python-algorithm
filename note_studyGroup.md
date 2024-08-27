@@ -312,13 +312,17 @@
 2. 동전 2 : https://www.acmicpc.net/problem/2294
    - gold 5
    - 🟡 dp, dp에 대해 이해하기 좋은 문제
-3. 트리의 순회 : https://www.acmicpc.net/problem/2263
-4. DSLR : https://www.acmicpc.net/problem/9019
-5. 스도쿠 : https://www.acmicpc.net/problem/2239
+3. 스도쿠 : https://www.acmicpc.net/problem/2239
    - gold4
    - dfs
-   - 🔴시간초과, pypy로 통과. 최적화 지점 찾아보기 
-6. 원판 돌리기 : https://www.acmicpc.net/problem/17822
+   - 🔴시간초과, pypy로 통과. 최적화 지점 찾아보기
+
+### 24년 8월 마지막주 ~ 9월 첫째주
+1. 다음 소수 : https://www.acmicpc.net/problem/4134
+   - silver4
+   - 수학
+
+
 
 ### 보류중인 문제 
 - 격자상의 경로 : www.acmicpc.net/problem/10164 2406-4
@@ -331,7 +335,10 @@
 - 종이조각 : [비트마스킹] https://www.acmicpc.net/problem/14391 
 - 꽃길 : [dfs] https://www.acmicpc.net/problem/14620
 - 보석도둑 : [dp, 배낭문제] https://www.acmicpc.net/problem/1202
-- 동전 2 : [dp] https://www.acmicpc.net/problem/2294  🟡 dp에 대해 이해하기 좋은 문제
+- 동전 2 : [dp] https://www.acmicpc.net/problem/2294  🟡 dp에 대해 이해하기 좋은 문제 
+- 트리의 순회 : https://www.acmicpc.net/problem/2263
+- DSLR : https://www.acmicpc.net/problem/9019
+- 원판 돌리기 : https://www.acmicpc.net/problem/17822
 
 ### 랜덤 문제 사이트
 https://github.com/tony9402/baekjoon/blob/main/picked_legacy.md
