@@ -324,6 +324,14 @@
 2. 치킨 배달 : https://www.acmicpc.net/problem/15686
    - gold5
    - 🟡 dfs
+3. 비밀번호 발음하기 : https://www.acmicpc.net/problem/4659
+   - silver 5
+   - 구현
+4. 가장 긴 짝수 연속한 부분 수열 (small) : https://www.acmicpc.net/problem/22857
+   - silver2
+   - 🔴dp
+
+
 
 
 ### 보류중인 문제 
