@@ -317,22 +317,26 @@
    - dfs
    - 🔴시간초과, pypy로 통과. 최적화 지점 찾아보기
 
-### 24년 8월 마지막주 ~ 9월 첫째주
+### 24년 8월 마지막주 
 1. 다음 소수 : https://www.acmicpc.net/problem/4134
    - silver4
    - 수학
 2. 치킨 배달 : https://www.acmicpc.net/problem/15686
    - gold5
    - 🟡 dfs
-3. 비밀번호 발음하기 : https://www.acmicpc.net/problem/4659
+
+### 9월 첫째주 
+1. 비밀번호 발음하기 : https://www.acmicpc.net/problem/4659
    - silver 5
    - 구현
-4. 가장 긴 짝수 연속한 부분 수열 (small) : https://www.acmicpc.net/problem/22857
-   - silver2
+2. 가장 긴 짝수 연속한 부분 수열 (small) : https://www.acmicpc.net/problem/22857
+   - silver2 
    - 🔴dp
+3. 유기농 배추(복습) : 1012
+   - silver2
+   - bfs
 
-
-
+1992, 17298, 2559, 2468, 1629
 
 ### 보류중인 문제 
 - 격자상의 경로 : www.acmicpc.net/problem/10164 2406-4

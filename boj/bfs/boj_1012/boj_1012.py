@@ -1,6 +1,8 @@
 """
 얼음 조각 문제처럼 덩어리를 map에서 찾아서 그 수를 반환한다.
 시간제한 1초, 테스트 케이스 있음,  1<= N,M <= 50
+
+34072KB	208ms
 """
 from collections import deque
 T = int(input().rstrip())
