@@ -344,6 +344,11 @@
 
 1992, 2468, 1629
 
+### 9월 둘째주
+1. 경쟁적 전염 : 18405 
+   - gold5
+   - bfs
+
 ### 보류중인 문제 
 - 격자상의 경로 : www.acmicpc.net/problem/10164 2406-4
 - 사과나무 : https://www.acmicpc.net/problem/20002  2407-1
