@@ -364,7 +364,9 @@
 1. 로또 : 6603 
    - silver2
    - dfs
-2. 
+2. 컴백홈 : 1189
+   - silver1
+   - dfs
 
 ### 보류중인 문제 
 - 격자상의 경로 : www.acmicpc.net/problem/10164 2406-4
