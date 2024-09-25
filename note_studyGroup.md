@@ -397,7 +397,7 @@
 - 종이조각 : [비트마스킹] https://www.acmicpc.net/problem/14391 
 - 꽃길 : [dfs] https://www.acmicpc.net/problem/14620
 - 보석도둑 : [dp, 배낭문제] https://www.acmicpc.net/problem/1202
-- 동전 2 : [dp] https://www.acmicpc.net/problem/2294  🟡 dp에 대해 이해하기 좋은 문제 
+- [x] 동전 2 : [dp, bfs] https://www.acmicpc.net/problem/2294  240925
 - 트리의 순회 : https://www.acmicpc.net/problem/2263
 - DSLR : https://www.acmicpc.net/problem/9019
 - 원판 돌리기 : https://www.acmicpc.net/problem/17822
