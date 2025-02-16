@@ -13,6 +13,7 @@
 - [그리디] 
   - book.314_만들 수 없는 금액
   - book.315_볼링공 고르기
+  - 전구와 스위치 : https://www.acmicpc.net/problem/2138
 - [dfs/bfs] 
   - 백준 인구이동 : https://www.acmicpc.net/problem/16234
   - 연구소 복습 : https://www.acmicpc.net/problem/14502
