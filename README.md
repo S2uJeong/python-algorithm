@@ -8,6 +8,8 @@
 ### 복습 주제
 - 연속 수열 (증가, 감소)
 ### 복습
+- [best]
+  - 안녕 : https://www.acmicpc.net/problem/1535
 - [슬라이딩 윈도우]
   - https://www.acmicpc.net/problem/2531
 - [그리디] 
@@ -28,6 +30,19 @@
 # Memo
 ---
 ## 공통
+### 입출력
+- 두 개의 리스트 입력 받아 (n,n) 쌍의 리스트로 변환 
+  ```python
+  lst = list(zip(map(int, input().split()), map(int,input().split())))
+  
+  # 10 4 6 2 
+  # 4 5 6 7
+
+  # >> [(10, 4), (4, 5), (6, 6), (2, 7)]
+  
+  lst2 = lst = list(map(tuple, zip(map(int, input().split()), map(int, input().split()))))
+  # >> 
+  ```
 ### 시간 계산 코드
 ```python
 import time
